@@ -12,9 +12,9 @@
 
 <h2>☁️ Cloud & DevOps Projects</h2>
 
-- <b>🚀 AWS Multi-Tier Web App Deployment</b>  
-  <i>Deployed a scalable 3-tier architecture using EC2, RDS, and Load Balancer with Terraform automation.</i>  
-  🔗 [View Project Repository](#)
+- <b>🚀 AWS Multi-Tier Web App Deployment</b><br>
+  <i>Deployed a scalable 3-tier architecture using EC2, RDS, and Load Balancer with Terraform automation.</i><br>
+  <a href="https://github.com/Nathsuuuu/aws-multi-tier-webapp" target="_blank">🔗 View Project Repository</a>
 
 - <b>⚙️ Automated System Health Checker</b>  
   <i>Python-based monitoring script that checks CPU, RAM, and Disk usage, sending logs to AWS CloudWatch.</i>  
