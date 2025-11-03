@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanielro%C3%B1o/">Aspiring Cloud Engineer</a>, <a href="https://www.credly.com/badges/4910f366-5b75-432d-bf82-a98409461223/public_url">AWS Certified Cloud Practitioner</a></h1>, <a href="https://github.com/Nathsuuuu"> Python & DevOps Enthusiast</a>,
+<h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanielro%C3%B1o/">Aspiring Cloud Engineer</a>, <a href="https://www.credly.com/badges/4910f366-5b75-432d-bf82-a98409461223/public_url">AWS Certified Cloud Practitioner</a>, <a href="https://github.com/Nathsuuuu"> Python & DevOps Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
