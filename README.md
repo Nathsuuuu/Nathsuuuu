@@ -1,40 +1,75 @@
-<h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanielro%C3%B1o/">Aspiring Cloud Engineer</a>, <a href="https://www.credly.com/badges/4910f366-5b75-432d-bf82-a98409461223/public_url">AWS Certified Cloud Practitioner</a>, <a href="https://github.com/Nathsuuuu"> Python & DevOps Enthusiast</a></h1>
+<h1 align="center">Hi, I'm Nathan! 🌩️</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathanielro%C3%B1o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Nathsuuuu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.credly.com/badges/4910f366-5b75-432d-bf82-a98409461223/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified"/></a>
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h3 align="center">Aspiring Cloud Engineer | AWS Certified Cloud Practitioner | Python & DevOps Enthusiast</h3>
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>☁️ Cloud & DevOps Projects</h2>
 
-<h2> 🤳 Connect with me:</h2>
+- <b>🚀 AWS Multi-Tier Web App Deployment</b>  
+  <i>Deployed a scalable 3-tier architecture using EC2, RDS, and Load Balancer with Terraform automation.</i>  
+  🔗 [View Project Repository](#)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- <b>⚙️ Automated System Health Checker</b>  
+  <i>Python-based monitoring script that checks CPU, RAM, and Disk usage, sending logs to AWS CloudWatch.</i>  
+  🔗 [View Project Repository](#)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/nathanielro%C3%B1o/
+- <b>📦 CI/CD Pipeline Demo</b>  
+  <i>Implemented a GitHub Actions pipeline for automated build, test, and deploy of a sample web application.</i>  
+  🔗 [View Project Repository](#)
 
+- <b>🧱 Terraform Infrastructure Setup</b>  
+  <i>Created and managed AWS resources (VPC, EC2, S3) using Terraform Infrastructure as Code.</i>  
+  🔗 [View Project Repository](#)
+
+---
+
+<h2>🧰 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+</p>
+
+---
+
+<h2>🎯 Currently Learning</h2>
+
+- Automating AWS services using Python (Boto3)
+- Building scalable cloud architectures  
+- Implementing CI/CD pipelines with GitHub Actions  
+- Deepening Linux administration & networking skills  
+
+---
+
+<h2>🏆 Certifications</h2>
+
+- ✅ <b>AWS Certified Cloud Practitioner</b>  
+- 📘 <i>Currently preparing for:</i> AWS Solutions Architect – Associate  
+- 🐧 Linux Essentials (in progress)
+
+---
+
+<h2>🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathanielro%C3%B1o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Nathsuuuu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.credly.com/badges/4910f366-5b75-432d-bf82-a98409461223/public_url"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ <i>"Passionate about building reliable, automated, and cost-efficient cloud solutions."</i>
