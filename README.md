@@ -23,7 +23,7 @@
 
 - <b>📦 CI/CD Pipeline Demo</b>  
   <i>Implemented a GitHub Actions pipeline for automated build, test, and deploy of a sample web application.</i>  
-  🔗 [View Project Repository](#)
+ <a href="[https://github.com/Nathsuuuu/automated-system-health-checker.git](https://github.com/Nathsuuuu/CI-CD-Pipeline-Demo.git)" target="_blank">🔗 View Project Repository</a>
 
 - <b>🧱 Terraform Infrastructure Setup</b>  
   <i>Created and managed AWS resources (VPC, EC2, S3) using Terraform Infrastructure as Code.</i>  
