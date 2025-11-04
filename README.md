@@ -18,7 +18,8 @@
 
 - <b>⚙️ Automated System Health Checker</b>  
   <i>Python-based monitoring script that checks CPU, RAM, and Disk usage, sending logs to AWS CloudWatch.</i>  
-  🔗 [View Project Repository](#)
+   <a href="https://github.com/Nathsuuuu/automated-system-health-checker.git" target="_blank">🔗 View Project Repository</a>
+
 
 - <b>📦 CI/CD Pipeline Demo</b>  
   <i>Implemented a GitHub Actions pipeline for automated build, test, and deploy of a sample web application.</i>  
