@@ -27,7 +27,7 @@
 
 - <b>🧱 Terraform Infrastructure Setup</b>  
   <i>Created and managed AWS resources (VPC, EC2, S3) using Terraform Infrastructure as Code.</i>  
-  🔗 [View Project Repository](#)
+ <a href="https://github.com/Nathsuuuu/terraform-aws-infra.git" target="_blank">🔗 View Project Repository</a>
 
 ---
 
