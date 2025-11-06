@@ -6,7 +6,7 @@
   <a href="https://www.credly.com/badges/4910f366-5b75-432d-bf82-a98409461223/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified"/></a>
 </p>
 
-<h3 align="center">Aspiring Cloud Engineer | AWS Certified Cloud Practitioner | Python & DevOps Enthusiast</h3>
+<h3 align="center">Aspiring DevOps/Cloud Engineer | AWS Certified Cloud Practitioner | Python & DevOps Enthusiast</h3>
 
 ---
 
