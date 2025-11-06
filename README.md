@@ -58,6 +58,8 @@
 <h2>🏆 Certifications</h2>
 
 - ✅ <b>AWS Certified Cloud Practitioner</b>  
+- ✅ <b>LFS101: Introduction to Linux</b> 
+- ✅ <b>LFS147: Introduction to AI/ML Toolkits with Kubeflow</b> 
 - 📘 <i>Currently preparing for:</i> AWS Solutions Architect – Associate  
 - 🐧 Linux Essentials (in progress)
 
