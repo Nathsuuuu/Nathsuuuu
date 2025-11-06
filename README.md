@@ -70,7 +70,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nathanielro%C3%B1o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Nathsuuuu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.credly.com/badges/4910f366-5b75-432d-bf82-a98409461223/public_url"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/nathaniel-rono/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
 
 ---
